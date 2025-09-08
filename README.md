@@ -1,33 +1,51 @@
-# Welcome to My GitHub Profile
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=300&color=70A5FD&center=true&vCenter=true&width=600&height=27&lines=+Hey+There!+I+am+Arshman+Khawar!;Computer+Science+Student+and+Software+Developer!;" alt="Typing SVG" />
+</div><img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
+<p align="center">🎯 Reach me at <strong>arshmankhawar007@gmail.com</strong></p>
+<hr>
 
-## About Me
-Hi there! I'm a third-year Computer Science undergraduate with a passion for software development and problem-solving. My expertise lies in **C++**, **Object-Oriented Programming (OOP)**, and **Data Structures & Algorithms (DSA)**. I also have experience working with **assembly x86**, **Python**, **C#**, and **SQL**. 
+<h3 align="center">Connect With Me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/arshman-khawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshmankhawar" height="30" width="40" /></a>
+</p>
 
-I'm always eager to learn new technologies and work on exciting projects that challenge my skills. Here, you'll find some of the projects I've worked on during my academic journey and personal endeavors.
+<h3 align="center">Languages & Tools</h3> <p>
+  <img src="https://skillicons.dev/icons?i=c" height="35" width="45" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" width="45" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="35" width="45" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="35" width="45" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="35" width="45" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" width="45" alt="jupyter logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="35" width="45" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="35" width="45" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" width="45" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="35" width="45" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="35" width="45" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="35" width="45" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=gradle" height="35" width="45" alt="gradle logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="35" width="45"alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" width="45" alt="canva logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="35" width="45" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="35" width="45" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=matlab" height="35" width="45" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" width="45" alt="microsoftsqlserver logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" width="45" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" width="45" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" width="45" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" width="45" alt="pandas logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="35" width="45" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="35" width="45" alt="sqlite logo"  />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="35" width="45" alt="trello logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="35" width="45" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="35" width="45" alt="eclipseide logo"  />
+</p>
 
-## My Skills
-- **Programming Languages:** C++, Python, C#, Assembly x86, SQL
-- **Core Concepts:** OOP, Data Structures & Algorithms, Software Design
-- **Tools & Frameworks:** Git, SFML, Visual Studio, Linux
+<hr>
 
-## Featured Projects
-- **[Tetris Game](https://github.com/ArshmanK77/Tetris):** A classic Tetris game implemented in C++ using SFML.
-- **[Pac-Man Game](https://github.com/ArshmanK77/PACMAN-using-assembly-language):** A retro Pac-Man game created using x86 assembly language.
-- **[More Projects...](https://github.com/ArshmanK77?tab=repositories):** Check out the rest of my work!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ArshmanK77&label=Profile%20views&color=0e75b6&style=flat" alt="ArshmanK77" /> </p>
 
-## Connect with Me
-- **[LinkedIn](https://www.linkedin.com/in/arshman-khawar):** Let's connect professionally and explore opportunities together.
-- **[Email](mailto:arshmankhawar007@gmail.com):** Feel free to reach out with any questions or collaboration ideas.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArshmanK77&theme=darkhub" alt="ArshmanK77" /></a> </p>
 
-## Contributions
-I enjoy contributing to open-source projects and collaborating with others in the developer community. If you find any of my projects interesting or want to work together, don't hesitate to reach out!
-
-## Get in Touch
-I'm always open to discussing new projects, learning opportunities, or simply connecting with fellow developers. Let's collaborate and build something amazing together!
-
-Thank you for visiting my GitHub profile. I hope you find something here that inspires you!
-
----
-
-**Arshman Khawar**  
-Third-Year CS Undergraduate | Software Developer | Problem Solver
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ArshmanK77&theme=dark" alt="ArshmanK77" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshmanK77&show_icons=true&locale=en&theme=dark&layout=compact" alt="ArshmanK77" /></p>

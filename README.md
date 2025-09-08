@@ -38,7 +38,11 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="35" width="45" alt="sqlite logo"  />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="35" width="45" alt="trello logo"  />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="35" width="45" alt="visualstudio logo"  />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="35" width="45" alt="eclipseide logo"  />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="35" width="45" alt="eclipseide logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" width="45" alt="react logo"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" width="45" alt="node logo"/>
+  <img src="https://skillicons.dev/icons?i=express" height="35" width="45" alt="express logo"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="35" width="45" alt="postman logo"/>
 </p>
 
 <hr>

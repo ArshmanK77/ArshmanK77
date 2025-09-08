@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=300&color=70A5FD&center=true&vCenter=true&width=600&height=27&lines=+Hey+There!+I+am+Arshman+Khawar!;Computer+Science+Student+and+Software+Developer!;" alt="Typing SVG" />
-</div><img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</div><img align="right" alt="Coder GIF"  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="600" />
 <br>
 <p align="center">🎯 Reach me at <strong>arshmankhawar007@gmail.com</strong></p>
 <hr>
